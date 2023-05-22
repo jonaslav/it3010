@@ -1,0 +1,34 @@
+ Craig Leonard et al. Empirical Political Analysis: Quantitative and Qualitative Research Methods. 8th ed. Boston, MA: Longman, 2011; McNabb, David E. Research Methods in Public Administration and Nonprofit Management: Quantitative and Qualitative Approaches. 2nd ed. Armonk, NY: M.E. Sharpe, 2008; Quantitative Research Methods. Writing@CSU. Colorado State University; Singh, Kultar. Quantitative Social Research Methods. Los Angeles, CA: Sage, 2007.
+
+Basic Research Design for Quantitative Studies
+Before designing a quantitative research study, you must decide whether it will be descriptive or experimental because this will dictate how you gather, analyze, and interpret the results. A descriptive study is governed by the following rules: subjects are generally measured once; the intention is to only establish associations between variables; and, the study may include a sample population of hundreds or thousands of subjects to ensure that a valid estimate of a generalized relationship between variables has been obtained. An experimental design includes subjects measured before and after a particular treatment, the sample population may be very small and purposefully chosen, and it is intended to establish causality between variables.
+
+Introduction
+The introduction to a quantitative study is usually written from the third person point of view and covers the following information:
+
+Identify the research problem -- as with any academic study, you must state clearly and concisely the research problem being investigated.
+Review the literature -- review scholarship on the topic, synthesizing key themes and, if necessary, noting studies that have used similar methods of inquiry and analysis. Note where key gaps exist and how your study helps to fill those gaps.
+Describe the theoretical framework -- provide an outline of the theory or hypothesis underpinning your study. If necessary, define unfamiliar or complex terms, concepts, or ideas and provide background information to place the research problem in proper context [e.g., historical, cultural, economic, etc.].
+Methodology
+The methods section of a quantitative study should describe how each objective of your study  will be achieved. Be sure to provide enough detail to enable that the reader can make an informed assessment of the method being used to obtain results associated with the research problem.
+
+Study population and sampling -- where did the data come from; how robust is it; note where gaps exist or what was excluded. Note the procedures used for their selection;
+Data collection – describe the tools and methods used to collect information and identify the variables being measured; Describe the methods used to obtain the data; Note if the data was pre-existing [i.e., government data] or you gathered it yourself. If you gathered it, describe what type of instrument you used and why. Note that no data set is perfect--describe any limitations in methodology.
+Data analysis -- describe the procedures for processing and analyzing the data. If appropriate, describe the specific instruments of analysis used to study each research objective.
+Results
+The finding of your study should be written objectively and in a succinct and precise format. In quantitative studies, it is common to use graphs, tables, charts and other non-textual elements to help the reader understand the data. Make sure that non-textual elements do not stand in isolation from the text but are used to supplement the overall description of the results and to help clarify key points being made. Further information about how to effectively present data using charts and graphs can be found here.
+
+Statistical analysis -- how did you analyze the data? What were the key findings from the data? The findings should be present in a logical, sequential order. Describe but do not interpret these trends or negative results; save that for the discussion section. The results should be presented in the past tense.
+Discussion
+Discussions should be analytic, logical and comprehensive. The discussion should meld together your findings in relation to those identified in the literature review, and placed within the context of the theoretical framework underpinning the study.
+
+Interpretation of results -- reiterate the research problem being investigated and compare and contrast the findings with the research questions underlying the study. Did they affirm predicted outcomes or did the data refute it?
+Description of trends, comparison of groups, or relationships among variables -- describe any trends that emerged from your analysis and highlight all unanticipated and statistical insignificant findings.
+Discussion of implications – what is the meaning of your results? Highlight key findings based on the overall results and note you believe them to be important. How have the results helped fill gaps in understanding the research problem?
+Limitations -- describe any limitations or unavoidable bias in your study and, if necessary, note why these limitations did not inhibit effective interpretation of the results.
+Conclusion
+End your study by to summarizing the topic and provide a final comment and assessment of the study.
+
+Summary of findings – synthesize the answers to your research questions. Do not report any statistical data here; just provide a narrative summary of the key findings and describe what learned that you did not know before conducting your study.
+Recommendations – if appropriate to the aim of the assignment, tie key findings with policy recommendations.
+Future research – note the need for future research linked to your study’s limitations or to any remaining gaps in the literature that were not addressed.
