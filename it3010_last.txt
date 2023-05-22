@@ -1,0 +1,355 @@
+Abstract—Digital security is important at NTNU and other uni-
+versities to protect the confidentiality, integrity, and availability
+of the university’s digital resources, prevent unauthorised access
+or modification of sensitive information, and mitigate potential
+cyber threats and attacks. Therefore, the digital security habits
+of its students is critical for the university. This paper explores
+these habits.
+The study was conducted using the survey research method.
+Data from 63 respondents at NTNU was collected. These re-
+sponses were analysed quantitatively with descriptive statistics.
+The results show that 34.9% of the students asked admitted to be
+using the same password as their NTNU account on multiple sites,
+and 30.2% admitted to be using a version of the same password.
+The results emphasise the need for increased awareness and
+knowledge regarding password security and the implementation
+of additional security measures.
+I. INTRODUCTION
+The rapid increase in digitalization has led to the pro-
+liferation of online platforms and services, which, in turn,
+has heightened the need for robust security measures. Or-
+ganisations, both public and private, are at risk of losing
+sensitive data, intellectual property, and reputation, among
+other things, if they fail to adequately protect themselves
+from cyber threats. This paper aims to assess the online
+habits of students at the Norwegian University of Science and
+Technology (NTNU) when utilising the university’s systems,
+including NTNU’s email service, network (Eduroam), and
+internal online platform (Blackboard). More specifically, the
+paper tries to identify specific habits and practices of students
+that could potentially compromise the digital security of the
+university.
+Through surveys and data analysis, the study seeks to an-
+swer the papers research question: ”What are NTNU students
+habits with regards to cyber security when using NTNU´s
+systems, and should this be improved?”
+Our contribution will give further understanding on the
+knowledge gap addressed in background; which security
+mechanisms do NTNU students´ use, while using NTNU´s
+systems.
+In this paper the term ”online platform” is defined as a
+digital service or website that facilitates the exchange of
+information.
+II. BACKGROUND
+There are already studies done on the topic of online
+security on regards to students and security, and security in
+online learning. In the paper ”Security Risks and Protection
+in Online Learning: A Survey” the researchers focuses on
+security risks in online learning [5]. The paper mentions
+different security risks and various measuremefnts to protect
+against them. The paper concludes that security in online
+learning should be taken seriously, before it is too late, and
+indicates that online learning providers and practitioners have
+not considered security as a top priority. This paper looks
+at how these findings correlate to practitioners or students at
+NTNU.
+Recent advancements in technology and the widespread use
+of online platforms have changed the way people interact and
+share information. Consequently, it is essential to reassess the
+online habits of students and adapt security measures to fit
+the current digital landscape. By focusing on NTNU students
+and their habits while using the university’s network and
+the university´s VPN, this paper aims to provide an updated
+perspective on students security habits.
+The paper ”Students Information Security Practices and
+Awareness” also shares a strong connection with the research
+conducted in this paper [6]. The study focus on information
+security awareness and practices, through a survey research
+method, and find that even though security knowledge and
+awareness is relatively high, the compliance is low and stu-
+dents do not practice through habits and behaviour what they
+know about secure digital habits. These results are based on
+limited groups available and does not correlate with another
+study found, ”The Level of Information Security Awareness
+of First-Year University Students” [8], which indicates that
+students in Slovenia, Croatia, Slovakia, Bulgaria and Hungary
+have both low knowledge and awareness, as well as bad
+security practices and behaviour. Another study by Jones and
+Heinrichs from 2012 [10] finds that when using application
+software, many students do not avoid harmful habits such as
+clicking on web links from unknown sources, downloading
+apps when they are not sure if they can trust the website,
+using their phone for (unencrypted) financial transactions, and
+so on.
+It is relevant to mention that the first two and the last of the
+studies mentioned were conducted over a decade ago, during a
+period in which the use of the internet and information systems
+has evolved significantly. In this paper, the aim is to explore
+similar aspects as the aforementioned studies, but the focus is
+on the habits of students at NTNU when using the university’s
+network or VPN. When connected to the universities private
+network, students may potentially be a security hazard not only
+for themselves, but also NTNU´s whole data network and all
+of the systems connected through it. This paper will therefore
+aim to assess NTNU students’ adherence to secure digital
+habits in the present context as there is a lack of research
+on this, and the similar studies are quite old, which we find
+to be a knowledge gap.
+III. METHODS
+A. Choice of method
+Following the framework of Oates [2], the chosen strategy
+is a survey, and the data generation method is a questionnaire
+created in ”https://nettskjema.no/”. The data gathered will be
+quantitative and this will therefore be the method for analysis
+by descriptive statistics shown through percentages.
+The survey research method was chosen for this study as it
+provides an efficient and cost-effective way to gather data on
+the cyber security habits and practices of a large number of
+students. This method aligns well with the research objectives
+and questions, which aim to identify patterns and trends in
+student habits related to digital security. Surveys allow for the
+collection of quantitative data that can be easily analyzed to
+identify these patterns and trends.
+Moreover, questionnaires, as a data generation method,
+enable the researcher to reach a large sample size in a time-
+efficient manner (see III-B Sampling), and they have the ad-
+vantage of being relatively easy to administer, especially in an
+online format. This method also minimizes the possibility of
+interviewer bias and provides respondents with a certain level
+of anonymity, which might encourage more honest responses.
+Alternative research methods that were not chosen for this
+study include open-ended questions, where the respondents
+are allowed to express their thoughts and feelings in their
+own words, providing richer and more nuanced data. Inter-
+views that enable researchers to gather detailed information
+from participants, ask follow-up questions, and clarify any
+ambiguities, or for example observation, where researchers
+directly observe participants in the environment in question.
+In contrast, multiple choice has the advantage of accumulating
+more statistic-friendly data, as opposed to the multi-varied
+outcomes produced by these other methods.
+B. Sampling
+In order to gather data representative of the target group
+of NTNU students, it was necessary to calculate the sample
+size. ”The Cochran Formula for population size” can be used
+to calculate sample sizes where the population size is known.
+This was fitting for this research as the number of students at
+NTNU in Trondheim, 37000 [4], is known.
+The formula is shown in figure 1 where the n represents
+the population size and should be 37000. The p represents
+the percentage of people who has the trait under the study,
+and the q represents the percentage who does not have the
+trait under the study. As this information is not known, p and
+q will be calculated as 0.5, their maximum value. The z is
+standard normal probability which is 1.96, and the d, which
+value affects the accuracy of the sampling, is calculated as
+0.05 its highest value, for maximum accuracy. This leads to a
+suggested sample size of 381.
+Fig. 1. The Cochran Formula
+The ideal sampling method for this research would be ran-
+dom sampling as it would allow for an equal representation of
+all NTNU students across faculties and year. However, due to
+limitations in this research, a combination of random sampling
+and convenience sampling was used. To conduct convenience
+sampling, the internal communication platform of the student
+association was used, along with private communication. The
+random sampling was conducted by posting the survey to a
+bulletin board on Innsida, an internal NTNU forum.
+C. Questionnaire
+The
+ questionnaire,
+ distributed
+ through
+”https://nettskjema.no/”, consists of multiple-choice questions
+covering the topics of password management, habits when
+using Erduroam and NTNU VPN and general security related
+habits. The questions are aimed to map student habits to find
+common quantitative characteristics, and further be able to
+answer the research question. All the questions can be viewed
+below:
+1) Are you a student at NTNU Trondheim?
+2) At which faculty are you a student?
+3) Which operating system do you use for school work?
+4) Which of these activities have you done while connected
+to Erduroam or NTNU VPN?
+5) Do you use your NTNU account password on other
+accounts?
+6) Have you used your NTNU e-mail to create an account
+outside of NTNU´s systems?
+7) If yes, which?
+8) Which security measures do you have/use?
+The questions were multiple-choice, except question 7
+which allowed for free-text. Question 1, 5 and 6 simply had
+the options of yes or no, but question 5 included an options of
+”different variants”. Question 2 listed all NTNU faculties as
+possible answers. Question 3 listed Linux, Windows, MacOS,
+or ”other” as possible answers. Question 4 listed activiteis
+such as streaming illegally or legally, downloading software
+legally or illegally, browsing the web, and if these activities
+had been done in the context of school. Question 6 aimed
+to disclose the security measures being used, and the options
+were firewall, password manager, secure password generators,
+always updating OS, checking links before clicking them,
+checking the sender of emails, locking the computer before
+leaving it, and closing the computer before leaving it.
+IV. RESULTS
+The results are based on the answers of 63 students where
+50 belong to the IE-faculty (Q2). The 13 others are distributed
+on the other faculties, see figure 2. The majority being from the
+IE-faculty is most likely due to the sampling method allowing
+for convenience sampling, as the writers of this report belong
+to this faculty. Of these students, 11 are Linux users, 34 uses
+Windows, and 35 uses macOS as their operating system for
+school work(Q3).
+Fig. 2. Graph showing the distribution of test subjects on the faculties.
+Question 4 asked what students has done while connected
+to the school WiFi or VPN, and not suprisingly, many has
+downloaded software necessary for classes, streamed lectures,
+and surfed the web. 42.9% had also downloaded sofware
+outside of school work, 74.6% had streamed entertainment,
+and a small percent of 3.2% had downloaded illegal content,
+and 11.1% had streamed illegal content. See figure 3. This
+suggests that students mostly do school related activites when
+using Erduroam or the NTNU VPN, but that some students
+also use it for their personal activities.
+On password security (Q5) 34.9% admitted to be using
+the same password as their NTNU account on multiple sites,
+and 30.2% admitted to be using a version of the same
+password. See figure 4. This puts the accounts at a higher
+risk of being breached. However, only 23.8% had used their
+NTNU email for non-NTNU related accounts (Q6), meaning
+a breached password might not be connected to the NTNU
+email, but another personal email. These types of accounts
+varied between games, semi-related school sites like slack,
+overleaf and azure, and entertainment (Q7).
+Fig. 3. The results of question 4.
+Fig. 4. The results of question 5.
+The last question (Q8) wished to assess the security mea-
+sures NTNU students actively use, see figure 5. The most
+common three, used by around 80%, was closing the computer
+screen when walking away from it, checking links before
+clicking them, and checking the sender of emails. 63.5% also
+made sure to lock their computer before walking away from
+it, and 66.7% makes sure to update their OS when needed.
+A smaller percentage of 47.6% used firewalls, 44.4% used
+password managers, and 36.5% used password generators for
+secure passwords. This suggests that some students, although
+a minority, does not actively consider cyber security measures.
+Fig. 5. The results of question 8.
+V. DISCUSSION
+Many students did not use unique passwords for their
+NTNU accounts, which could leave these accounts vulnerable
+if other sites with the same password were to be breached.
+However, 76.2% of students have never used their NTNU
+email to sign up for other websites. This suggests that even if
+an attacker obtained a password used for an NTNU account,
+they likely would not gain access, as the NTNU email address
+would still be unknown and the password would not be linked
+to the account.
+Since 2021, two-factor authentication has been mandatory
+for NTNU accounts [9]. This security measure adds an extra
+layer of protection, making it even more difficult for unau-
+thorised users to access an NTNU account, even if they have
+the password. The data collected in this study supports the
+usefulness of two-factor authentication.
+Among other password security-related mechanisms, pass-
+word managers and automatic password generators were the
+least utilised security measures by the students questioned.
+A prevalent security measure among students was clos-
+ing their laptops when leaving them unattended. However,
+on macOS, which was a common operating system among
+respondents, the computer does not lock until a few minutes
+have passed. This could potentially give an adversary time to
+access the computer.
+The results of the questionnaire revealed that a small per-
+centage of students download or stream illegal content while
+connected to the NTNU network or VPN. Specifically, 3.2%
+of the respondents admitted to be downloading illegal content,
+while 11.1% reported streaming illegal content. Although these
+percentages are relatively low, it is crucial to acknowledge the
+potential risks associated with such activities. Downloading
+and streaming illegal content not only expose the individual
+students to legal consequences and malware risks, but they also
+jeopardise the security and reputation of the NTNU network.
+In general, these results shows the usage of multiple security
+related measures. However, there is still room for improvement
+as only two of the security measures listed are used by more
+than 80% of the respondents. This moderately complies with
+the research done in ”student information security practices
+and awareness” [6] and ”The Level of Information Security
+Awareness of First-Year University Students” [8]. These stud-
+ies both indicates that usage of security measures in practice
+is low, but the research in this study shows that some security
+measures are used by the majority, but that there is opportunity
+for improvement.
+VI. CONCLUSION
+This research has shed light on the online habits and secu-
+rity practices of NTNU students while using the university’s
+network or VPN. Majority of the students use multiple security
+related measures, however there are students reusing pass-
+words, carelessly clicking on links, and not actively updating
+software. The results might therefor indicate that there is room
+for improvement.
+There are some limitations to this type of survey, as
+multiple-choice questions often provide a fixed set of response
+options, which may not accurately represent all participants’
+situations, opinions, or experiences. This can lead to incom-
+plete or inaccurate data collection. Furthermore, respondents
+may misinterpret the question or answer choices, causing
+them to choose an option that does not truly reflect their
+thoughts or experiences. Also, capturing the complexity of
+human behavior and habits through multiple-choice questions
+is challenging, as they may not address the underlying factors
+or motivations affecting this.
+Another limitation was how the calculated sample size was
+381 subjects, which was not an achievable number. The final
+questionnaire resulted in 63 answers. This data limitation
+resulted in a final result that can not be viewed as fully rep-
+resentative of all the NTNU students in Trondheim. Another
+limitation, making the results less representative, was how the
+sample group was picked. Random sampling would be ideal,
+but the data was collected from both convenience and random
+sampling. A large majority of the results are therefor from
+students of the IE-faculty, who might be more technologically
+advanced than students from non IT or tech related studies.
+For future research it would be interesting to run a similar
+study comparing students cyber security knowledge with their
+actively used security related measures, as this research only
+assess the security measures used by students´, and not
+their awareness. This would be a similar study to ”Students
+Information Security Practices and Awareness” [6], however
+as mentioned this research is potentially outdated, and could
+use a reassessment. It could also be interesting to compare
+students habits when using NTNU systems with habits on their
+private accounts and network, to see if the issue of poor digital
+security lies within compliance or awareness.
+Lastly, thank you Nora Othilie Ringdal for guidance and
+feedback throughout this research.
+REFERENCES
+[1] G. Eason, B. Noble, and I. N. Sneddon, “On certain integrals of
+Lipschitz-Hankel type involving products of Bessel functions”, Phil.
+Trans. Roy. Soc. London, vol. A247, pp. 529–551, April 1955.
+[2] Oates, Briony J, “Researching information systems and computing,”
+Sage, pages 98–113, 2005
+[3] UiO, ”Nettskjema”, https://nettskjema.no/
+[4] NTNU, ”Student i Trondhieim”, https://www.ntnu.no/studentliv/trondheim
+[5] Y. Chen and W. He, ”Security risks and protection in online learning:
+A survey”, IRRODL, Vol 14, pages 108–127, 2013
+[6] Ludwig Slusky and Parviz Partow-Navid, ”Students Information Se-
+curity Practices and Awareness”, Journal of Information Privacy and
+Security, Vol 8, pages 3–26, 2012
+[7] Arfive Ghandi, ”Quantitative Assessment of Information Security
+Awareness on Informatics Students in a University”, ICIT 2017: Pro-
+ceedings of the 2017 International Conference on Information Technol-
+ogy, 2017, Pages 346–350, https://doi.org/10.1145/3176653.3176728
+[8] Torley G 
+¨ 
+abor, The Level of Information Security Awareness of First- 
+´
+Year University Students. In: The 11th International Conference on
+Applied Informatics, 2020, Eger.
+[9] https://www.digi.no/artikler/intervju-na-skal-ntnu-innfore-tofaktor-for-
+mer-enn-42-000-studenter-har-mye-med-angrepene-pa-stortinget-a-
+gjore/510530
+[10] Beth H. Jones and Lynn R. Heinrichs, ”Do Business Students Practice
+Smartphone Security?”, Journal of Computer Information Systems, Volume 53, 2012
